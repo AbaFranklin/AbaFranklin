@@ -1,7 +1,6 @@
 # 🐢 - Hello ! I'm Franklin
 
-My name is **Franklin**, I am a full stack developer, passionate about IT development and new technologies. Founder of [Unosial](https://github.com/Unosial) and [Marsha](https://marsha.dev/), owner of [Arcane Center](https://arcane-center.xyz/)
-as well as developer at [WatchMojo](https://www.youtube.com/channel/UCaWd5_7JhbQBe4dknZhsHJg) and [Inoxtag](https://www.youtube.com/channel/UCL9aTJb0ur4sovxcppAopEw). Faithful acolyte of [Aglox](https://github.com/Aglox) 😎.
+My name is **Franklin**, I am a full stack developer, passionate about IT development and new technologies. Founder of [Unosial](https://github.com/Unosial), a group offers various tools related to the different platforms and development in general. Faithful acolyte of [Aglox](https://github.com/Aglox) 😎.
 
 At the moment, I'm learning [Go](https://golang.org/), and developing the arrival of [Marsha](https://marsha.dev/), an advanced auto & manual moderation 
 bot designed for medium and big sized communities. [marsha.dev](https://marsha.dev/) 
