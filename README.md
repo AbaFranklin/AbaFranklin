@@ -9,7 +9,7 @@ bot designed for medium and big sized communities. [marsha.dev](https://marsha.d
 
 ## 💻 - Language and Tools
 - **HTML5** / **CSS3** | Bootstrap, Bulma, Tailwind CSS
-- **JavaScript** / **NodeJS** | ExpressJS, NuxtJS, VueJS
+- **JavaScript** / **NodeJS** | ExpressJS, NuxtJS, VueJS, NextJS, ReactJS
 - **Java** | Spigot, PaperMC
 - **SQL** | PostgreSQL, MySQL, MariaDB
 - **PHP**
